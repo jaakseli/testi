@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 kives
 penis
+=======
+pallokives
+>>>>>>> 6033e7526d24a397a8ce475c7963129e21233b24
